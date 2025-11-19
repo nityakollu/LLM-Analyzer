@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "username": "writer",
+    "passwordHash": "$2b$10$gyH.yh2x6iV0IWBhKTV.v.B01Obaaat8jIzTbVV4R2g5DmeP8gqC6",
+    "role": "writer"
+  },
+  {
+    "id": 2,
+    "username": "reader",
+    "passwordHash": "$2b$10$SBeUwngCi5o953MMy13fmeNcqqxTqgi9G1WALjtSvxvsLStEPa4Qu",
+    "role": "reader"
+  }
+]

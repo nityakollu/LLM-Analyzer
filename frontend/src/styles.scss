@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap');
+
+:root {
+  --bg: #f6f8fa;
+  --primary: #2563eb;
+  --primary-dark: #1e40af;
+  --text: #1f2937;
+  --card-bg: #ffffff;
+  --border: #e5e7eb;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: 'Inter', sans-serif;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+}
+
+nav {
+  background: var(--card-bg);
+  border-bottom: 1px solid var(--border);
+  padding: 10px 16px;
+  display: flex;
+  gap: 8px;
+}
+
+nav button {
+  background: var(--primary);
+  color: #fff;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+}
+nav button:hover {
+  background: var(--primary-dark);
+}
+
+textarea {
+  width: 100%;
+  max-width: 600px;
+  padding: 8px;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+button[disabled] {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  max-width: 900px;
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  margin-top:16px;
+}
+
+table th, table td {
+  border: 1px solid var(--border);
+  padding: 8px 12px;
+  text-align: left;
+  font-size: 14px;
+}
+
+table th {
+  background: var(--bg);
+  font-weight: 600;
+}
+
+.container {
+  margin: 20px auto;
+  max-width: 900px;
+  padding: 0 16px;
+}
+
+.section-gap{margin-bottom:16px;}

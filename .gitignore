@@ -1,0 +1,15 @@
+# Node
+**/node_modules/
+npm-debug.log*
+.env
+
+# Angular build / cache
+frontend/dist/
+frontend/.angular/
+frontend/.tsbuildinfo
+
+# macOS
+.DS_Store
+
+# Logs
+*.log

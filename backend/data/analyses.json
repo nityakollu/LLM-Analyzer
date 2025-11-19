@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1763576137583,
+    "text": "Everything about this situation feels overwhelmingly disappointing. The more I look at it, the more it seems like a collection of small frustrations piled into something completely exhausting. Nothing works the way it should, nothing arrives on time, and every promise made feels like an empty statement thrown out just to get people to stop asking questions. It’s the kind of experience that drains your energy before you even begin, because deep down you already know you’re going to end up fixing more problems than you resolve.",
+    "summary": "A disappointing situation with small frustrations and broken promises leading to energy drain.",
+    "sentiment": "Negative",
+    "createdAt": "2025-11-19T18:15:37.583Z",
+    "createdBy": "writer"
+  },
+  {
+    "id": 1763575669412,
+    "text": "i like the way the issue has been resolved\n",
+    "summary": "The issue has been resolved with a positive outcome.",
+    "sentiment": "Positive",
+    "createdAt": "2025-11-19T18:07:49.412Z",
+    "createdBy": "writer"
+  },
+  {
+    "id": 1763575580555,
+    "text": "the problem is solved\n",
+    "summary": "The issue has been resolved with a brief solution.",
+    "sentiment": "Neutral",
+    "createdAt": "2025-11-19T18:06:20.555Z",
+    "createdBy": "writer"
+  }
+]
