@@ -114,8 +114,4 @@ npm run build          # output in frontend/dist/
 
 # run backend with process manager (pm2, docker, …)
 ```
-
 ---
-## 8. License
-
-MIT.  Feel free to improve & PR.
